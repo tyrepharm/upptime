@@ -12,12 +12,12 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Tyre Pharmacy
+    url: https://tyrepharm.ru
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

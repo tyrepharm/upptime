@@ -1,42 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 56
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 167
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 280
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
-  },
-  {
     "name": "Tyre Pharmacy",
-    "url": "https://tyrepharm.ru",
+    "url": "https://tyrepharm.ru/",
     "slug": "tyre-pharmacy",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1520
+    "time": 1540
+  },
+  {
+    "name": "Дошипуй",
+    "url": "https://xn--d1aidsgy6a.xn--p1ai/",
+    "slug": "doshipuj",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1940
   }
 ]

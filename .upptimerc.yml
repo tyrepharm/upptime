@@ -1,5 +1,5 @@
-owner: tyrepharm
-repo: upptime
+owner: $OWNER
+repo: $REPO
 
 sites:
   - name: Tyre Pharmacy

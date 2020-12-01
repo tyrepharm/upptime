@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: tyrepharm-dev # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
@@ -18,7 +18,7 @@ status-website:
   name: Upptime
   navbar:
     - title: Status
-      href: /
+      href: /upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

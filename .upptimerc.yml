@@ -1,8 +1,6 @@
-# Change these first
-owner: tyrepharm-dev # Your GitHub username
-repo: tyrepharm/upptime # Your Github repository name
+owner: tyrepharm
+repo: upptime
 
-# Add your sites here
 sites:
   - name: Tyre Pharmacy
     url: https://tyrepharm.ru/
@@ -10,11 +8,7 @@ sites:
     url: https://xn--d1aidsgy6a.xn--p1ai/
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   navbar:
     - title: Status

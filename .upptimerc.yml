@@ -2,8 +2,12 @@ owner: tyrepharm
 repo: upptime
 
 sites:
-  - name: Tyre Pharmacy
+  - name: Tyre Pharmacy [prod]
     url: https://tyrepharm.ru/
+  - name: Tyre Pharmacy [test]
+    url: http://95.213.204.159/
+  - name: Tyre Pharmacy [test-2]
+    url: http://5.101.51.170/
   - name: Doshipui
     url: https://xn--d1aidsgy6a.xn--p1ai/
 

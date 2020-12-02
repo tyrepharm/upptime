@@ -1,11 +1,27 @@
 [
   {
-    "name": "Tyre Pharmacy",
+    "name": "Tyre Pharmacy [prod]",
     "url": "https://tyrepharm.ru/",
-    "slug": "tyre-pharmacy",
+    "slug": "tyre-pharmacy-prod",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1436
+    "time": 1525
+  },
+  {
+    "name": "Tyre Pharmacy [test]",
+    "url": "http://95.213.204.159/",
+    "slug": "tyre-pharmacy-test",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1535
+  },
+  {
+    "name": "Tyre Pharmacy [test-2]",
+    "url": "http://5.101.51.170/",
+    "slug": "tyre-pharmacy-test-2",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 824
   },
   {
     "name": "Doshipui",
@@ -13,6 +29,6 @@
     "slug": "doshipui",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1566
+    "time": 1853
   }
 ]

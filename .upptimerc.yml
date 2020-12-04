@@ -2,15 +2,15 @@ owner: tyrepharm
 repo: upptime
 
 sites:
-  - name: Tyre Pharmacy [prod]
+  - name: (prod) Tyre Pharmacy
     url: https://tyrepharm.ru/
-  - name: Tyre Pharmacy [test]
+  - name: (test) Tyre Pharmacy [test]
     url: http://95.213.204.159/
   - name: Tyre Pharmacy [test-2]
-    url: http://5.101.51.170/
+    url: (test-2) http://5.101.51.170/
   - name: Doshipui
     url: https://xn--d1aidsgy6a.xn--p1ai/
-  - name: [test] Monitor/db
+  - name: (test) Monitor.db 
     url: http://95.213.204.159/local/api/Monitor/db
     headers:
       - "Content-Type: application/json"
@@ -19,9 +19,9 @@ status-website:
   baseUrl: /upptime
   name: Upptime
   logoUrl: https://tyrepharm.ru/upload/aspro.mshop/145/14547cf839786595aaf89f08fb31a9ca.svg
-  navbar:
-    - title: Status
-      href: /upptime
+  # navbar:
+  #   - title: Status
+  #     href: /upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

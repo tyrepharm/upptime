@@ -10,6 +10,10 @@ sites:
     url: http://5.101.51.170/
   - name: Doshipui
     url: https://xn--d1aidsgy6a.xn--p1ai/
+  - name: [test] Monitor/db
+    url: http://95.213.204.159/local/api/Monitor/db
+    headers:
+      - "Content-Type: application/json"
 
 status-website:
   baseUrl: /upptime

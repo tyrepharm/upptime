@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1521,
-    "timeDay": 1521,
-    "timeWeek": 1521,
-    "timeMonth": 1521,
-    "timeYear": 1521
+    "time": 1525,
+    "timeDay": 1533,
+    "timeWeek": 1525,
+    "timeMonth": 1525,
+    "timeYear": 1525
   },
   {
     "name": "Tyre Pharmacy [test]",
@@ -36,16 +36,16 @@
     "url": "http://5.101.51.170/",
     "slug": "tyre-pharmacy-test-2",
     "status": "up",
-    "uptime": "1.31%",
-    "uptimeDay": "1.31%",
-    "uptimeWeek": "1.31%",
-    "uptimeMonth": "1.31%",
-    "uptimeYear": "1.31%",
-    "time": 1020,
-    "timeDay": 1020,
-    "timeWeek": 1020,
-    "timeMonth": 1020,
-    "timeYear": 1020
+    "uptime": "9.12%",
+    "uptimeDay": "8.50%",
+    "uptimeWeek": "9.12%",
+    "uptimeMonth": "9.12%",
+    "uptimeYear": "9.12%",
+    "time": 1116,
+    "timeDay": 1262,
+    "timeWeek": 1116,
+    "timeMonth": 1116,
+    "timeYear": 1116
   },
   {
     "name": "Doshipui",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1798,
-    "timeDay": 1914,
-    "timeWeek": 1798,
-    "timeMonth": 1798,
-    "timeYear": 1798
+    "time": 1850,
+    "timeDay": 2006,
+    "timeWeek": 1850,
+    "timeMonth": 1850,
+    "timeYear": 1850
   }
 ]

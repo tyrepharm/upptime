@@ -2,16 +2,20 @@ owner: tyrepharm
 repo: upptime
 
 sites:
-  - name: (prod) Tyre Pharmacy
+  - name: Tyre Pharmacy
     url: https://tyrepharm.ru/
-  - name: (test) Tyre Pharmacy [test]
-    url: http://95.213.204.159/
-  - name: Tyre Pharmacy [test-2]
-    url: (test-2) http://5.101.51.170/
   - name: Doshipui
     url: https://xn--d1aidsgy6a.xn--p1ai/
-  - name: (test) Monitor.db 
-    url: http://95.213.204.159/local/api/Monitor/db
+  - name: Monitor / MySQL 
+    url: https://tyrepharm.ru/local/api/Monitor/db
+    headers:
+      - "Content-Type: application/json"
+  - name: Monitor / init.php 
+    url: https://tyrepharm.ru/local/api/Monitor/init
+    headers:
+      - "Content-Type: application/json"
+  - name: Monitor / init.php 
+    url: https://tyrepharm.ru/local/api/Monitor/services
     headers:
       - "Content-Type: application/json"
 

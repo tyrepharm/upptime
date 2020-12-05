@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1421,
-    "timeDay": 1332,
-    "timeWeek": 1421,
-    "timeMonth": 1421,
-    "timeYear": 1421
+    "time": 1402,
+    "timeDay": 1300,
+    "timeWeek": 1402,
+    "timeMonth": 1402,
+    "timeYear": 1402
   },
   {
     "name": "Doshipui",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1872,
-    "timeDay": 1902,
-    "timeWeek": 1872,
-    "timeMonth": 1872,
-    "timeYear": 1872
+    "time": 1837,
+    "timeDay": 1824,
+    "timeWeek": 1837,
+    "timeMonth": 1837,
+    "timeYear": 1837
   },
   {
     "name": "Monitor / MySQL",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181
   },
   {
     "name": "Monitor / init.php",
@@ -57,26 +57,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 767,
-    "timeWeek": 767,
-    "timeMonth": 767,
-    "timeYear": 767
+    "time": 583,
+    "timeDay": 583,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583
   },
   {
-    "name": "Monitor / init.php",
+    "name": "Monitor / services",
     "url": "https://tyrepharm.ru/local/api/Monitor/services",
-    "slug": "monitor-init-php",
+    "slug": "monitor-services",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 767,
-    "timeWeek": 767,
-    "timeMonth": 767,
-    "timeYear": 767
+    "time": 1176,
+    "timeDay": 1176,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176
   }
 ]

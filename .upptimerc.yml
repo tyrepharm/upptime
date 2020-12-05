@@ -14,7 +14,7 @@ sites:
     url: https://tyrepharm.ru/local/api/Monitor/init
     headers:
       - "Content-Type: application/json"
-  - name: Monitor / init.php 
+  - name: Monitor / services 
     url: https://tyrepharm.ru/local/api/Monitor/services
     headers:
       - "Content-Type: application/json"

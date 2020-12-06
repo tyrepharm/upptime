@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1402,
-    "timeDay": 1300,
-    "timeWeek": 1402,
-    "timeMonth": 1402,
-    "timeYear": 1402
+    "time": 1381,
+    "timeDay": 1217,
+    "timeWeek": 1381,
+    "timeMonth": 1381,
+    "timeYear": 1381
   },
   {
     "name": "Doshipui",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1837,
-    "timeDay": 1824,
-    "timeWeek": 1837,
-    "timeMonth": 1837,
-    "timeYear": 1837
+    "time": 1828,
+    "timeDay": 1758,
+    "timeWeek": 1828,
+    "timeMonth": 1828,
+    "timeYear": 1828
   },
   {
     "name": "Monitor / MySQL",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 181,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181
+    "time": 179,
+    "timeDay": 175,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179
   },
   {
     "name": "Monitor / init.php",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 583,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583
+    "time": 491,
+    "timeDay": 215,
+    "timeWeek": 491,
+    "timeMonth": 491,
+    "timeYear": 491
   },
   {
     "name": "Monitor / services",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 1176,
-    "timeWeek": 1176,
-    "timeMonth": 1176,
-    "timeYear": 1176
+    "time": 1198,
+    "timeDay": 1220,
+    "timeWeek": 1198,
+    "timeMonth": 1198,
+    "timeYear": 1198
   }
 ]

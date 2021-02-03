@@ -4,28 +4,30 @@
     "url": "https://tyrepharm.ru/",
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "tyre-pharmacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1677,
     "timeDay": 1582,
     "timeWeek": 1656,
     "timeMonth": 1789,
     "timeYear": 1677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 2
+    }
   },
   {
     "name": "Doshipui",
     "url": "https://xn--d1aidsgy6a.xn--p1ai/",
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1960,
@@ -33,17 +35,19 @@
     "timeWeek": 1958,
     "timeMonth": 1971,
     "timeYear": 1960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 2
+    }
   },
   {
     "name": "Monitor / MySQL",
     "url": "https://tyrepharm.ru/local/api/Monitor/db",
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-my-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
@@ -51,17 +55,19 @@
     "timeWeek": 163,
     "timeMonth": 230,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 1
+    }
   },
   {
     "name": "Monitor / init.php",
     "url": "https://tyrepharm.ru/local/api/Monitor/init",
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-init-php",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
@@ -69,16 +75,18 @@
     "timeWeek": 218,
     "timeMonth": 234,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 1
+    }
   },
   {
     "name": "Monitor / services",
     "url": "https://tyrepharm.ru/local/api/Monitor/services",
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 1643,
     "timeMonth": 1489,
     "timeYear": 1151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 0
+    }
   }
 ]

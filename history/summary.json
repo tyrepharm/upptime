@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1643,
-    "timeDay": 1504,
-    "timeWeek": 1536,
-    "timeMonth": 1574,
+    "timeDay": 1712,
+    "timeWeek": 1541,
+    "timeMonth": 1559,
     "timeYear": 1643,
     "dailyMinutesDown": {
       "2021-02-03": 32
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 1922,
-    "timeDay": 1752,
-    "timeWeek": 1801,
-    "timeMonth": 1852,
-    "timeYear": 1922,
+    "time": 1924,
+    "timeDay": 2047,
+    "timeWeek": 1846,
+    "timeMonth": 1841,
+    "timeYear": 1924,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 387,
-    "timeDay": 150,
-    "timeWeek": 149,
-    "timeMonth": 151,
-    "timeYear": 387,
+    "time": 385,
+    "timeDay": 170,
+    "timeWeek": 152,
+    "timeMonth": 150,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 302,
-    "timeDay": 190,
-    "timeWeek": 199,
-    "timeMonth": 205,
-    "timeYear": 302,
+    "time": 301,
+    "timeDay": 216,
+    "timeWeek": 202,
+    "timeMonth": 203,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -85,16 +85,16 @@
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-services",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
-    "time": 1300,
-    "timeDay": 1528,
-    "timeWeek": 1635,
-    "timeMonth": 1655,
-    "timeYear": 1300,
+    "uptimeYear": "99.98%",
+    "time": 1306,
+    "timeDay": 1750,
+    "timeWeek": 1641,
+    "timeMonth": 1644,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

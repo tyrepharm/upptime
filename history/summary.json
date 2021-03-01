@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 1643,
-    "timeDay": 1712,
-    "timeWeek": 1541,
-    "timeMonth": 1559,
-    "timeYear": 1643,
+    "time": 1642,
+    "timeDay": 1548,
+    "timeWeek": 1551,
+    "timeMonth": 1565,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1924,
-    "timeDay": 2047,
-    "timeWeek": 1846,
-    "timeMonth": 1841,
+    "timeDay": 1928,
+    "timeWeek": 1856,
+    "timeMonth": 1838,
     "timeYear": 1924,
     "dailyMinutesDown": {
       "2021-02-03": 32
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 385,
-    "timeDay": 170,
-    "timeWeek": 152,
+    "time": 382,
+    "timeDay": 157,
+    "timeWeek": 153,
     "timeMonth": 150,
-    "timeYear": 385,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-init-php",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 301,
-    "timeDay": 216,
-    "timeWeek": 202,
-    "timeMonth": 203,
+    "timeDay": 284,
+    "timeWeek": 212,
+    "timeMonth": 206,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2021-02-03": 31
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 1306,
-    "timeDay": 1750,
-    "timeWeek": 1641,
-    "timeMonth": 1644,
-    "timeYear": 1306,
+    "time": 1307,
+    "timeDay": 1440,
+    "timeWeek": 1597,
+    "timeMonth": 1642,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

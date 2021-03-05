@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "tyre-pharmacy",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1638,
-    "timeDay": 1563,
-    "timeWeek": 1551,
-    "timeMonth": 1552,
-    "timeYear": 1638,
+    "uptimeYear": "99.98%",
+    "time": 1640,
+    "timeDay": 1756,
+    "timeWeek": 1581,
+    "timeMonth": 1560,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1919,
-    "timeDay": 1775,
-    "timeWeek": 1826,
-    "timeMonth": 1835,
-    "timeYear": 1919,
+    "time": 1917,
+    "timeDay": 1798,
+    "timeWeek": 1831,
+    "timeMonth": 1831,
+    "timeYear": 1917,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 375,
-    "timeDay": 150,
+    "time": 372,
+    "timeDay": 151,
     "timeWeek": 156,
     "timeMonth": 150,
-    "timeYear": 375,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 298,
-    "timeDay": 257,
-    "timeWeek": 225,
-    "timeMonth": 207,
-    "timeYear": 298,
+    "time": 297,
+    "timeDay": 217,
+    "timeWeek": 227,
+    "timeMonth": 208,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1326,
-    "timeDay": 1960,
-    "timeWeek": 1699,
-    "timeMonth": 1679,
-    "timeYear": 1326,
+    "time": 1332,
+    "timeDay": 1887,
+    "timeWeek": 1749,
+    "timeMonth": 1692,
+    "timeYear": 1332,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1634,
-    "timeDay": 1602,
-    "timeWeek": 1601,
-    "timeMonth": 1578,
-    "timeYear": 1634,
+    "time": 1635,
+    "timeDay": 1670,
+    "timeWeek": 1627,
+    "timeMonth": 1580,
+    "timeYear": 1635,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.01%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "98.98%",
-    "time": 1914,
-    "timeDay": 1924,
-    "timeWeek": 1870,
-    "timeMonth": 1839,
-    "timeYear": 1914,
+    "uptimeYear": "98.99%",
+    "time": 1915,
+    "timeDay": 1988,
+    "timeWeek": 1890,
+    "timeMonth": 1848,
+    "timeYear": 1915,
     "dailyMinutesDown": {
       "2021-03-13": 556,
       "2021-03-12": 956,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 347,
+    "time": 345,
     "timeDay": 147,
     "timeWeek": 148,
     "timeMonth": 151,
-    "timeYear": 347,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 286,
-    "timeDay": 190,
-    "timeWeek": 198,
+    "time": 285,
+    "timeDay": 200,
+    "timeWeek": 199,
     "timeMonth": 208,
-    "timeYear": 286,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1390,
-    "timeDay": 1943,
-    "timeWeek": 1793,
-    "timeMonth": 1763,
-    "timeYear": 1390,
+    "time": 1395,
+    "timeDay": 1961,
+    "timeWeek": 1805,
+    "timeMonth": 1777,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

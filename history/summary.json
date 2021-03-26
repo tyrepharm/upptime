@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1639,
-    "timeDay": 1590,
-    "timeWeek": 1700,
-    "timeMonth": 1617,
-    "timeYear": 1639,
+    "time": 1640,
+    "timeDay": 1780,
+    "timeWeek": 1732,
+    "timeMonth": 1625,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "99.05%",
-    "time": 1920,
-    "timeDay": 1890,
-    "timeWeek": 2012,
-    "timeMonth": 1902,
-    "timeYear": 1920,
+    "uptimeYear": "99.06%",
+    "time": 1921,
+    "timeDay": 1993,
+    "timeWeek": 2041,
+    "timeMonth": 1911,
+    "timeYear": 1921,
     "dailyMinutesDown": {
       "2021-03-13": 556,
       "2021-03-12": 956,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 333,
-    "timeDay": 146,
-    "timeWeek": 160,
-    "timeMonth": 153,
-    "timeYear": 333,
+    "time": 332,
+    "timeDay": 179,
+    "timeWeek": 165,
+    "timeMonth": 154,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 281,
-    "timeDay": 201,
-    "timeWeek": 211,
-    "timeMonth": 208,
-    "timeYear": 281,
+    "time": 280,
+    "timeDay": 251,
+    "timeWeek": 219,
+    "timeMonth": 210,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1427,
-    "timeDay": 1896,
-    "timeWeek": 1891,
-    "timeMonth": 1818,
-    "timeYear": 1427,
+    "time": 1435,
+    "timeDay": 2355,
+    "timeWeek": 1961,
+    "timeMonth": 1847,
+    "timeYear": 1435,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

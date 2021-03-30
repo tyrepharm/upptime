@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1650,
-    "timeDay": 2313,
-    "timeWeek": 1904,
-    "timeMonth": 1672,
-    "timeYear": 1650,
+    "time": 1649,
+    "timeDay": 1515,
+    "timeWeek": 1888,
+    "timeMonth": 1667,
+    "timeYear": 1649,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "99.08%",
-    "time": 1930,
-    "timeDay": 2415,
-    "timeWeek": 2191,
-    "timeMonth": 1952,
-    "timeYear": 1930,
+    "uptimeYear": "99.09%",
+    "time": 1929,
+    "timeDay": 1741,
+    "timeWeek": 2153,
+    "timeMonth": 1945,
+    "timeYear": 1929,
     "dailyMinutesDown": {
       "2021-03-13": 556,
       "2021-03-12": 956,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 328,
-    "timeDay": 211,
+    "time": 327,
+    "timeDay": 147,
     "timeWeek": 179,
-    "timeMonth": 158,
-    "timeYear": 328,
+    "timeMonth": 157,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 279,
-    "timeDay": 258,
-    "timeWeek": 236,
-    "timeMonth": 214,
+    "timeDay": 194,
+    "timeWeek": 234,
+    "timeMonth": 213,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2021-02-03": 31
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1455,
-    "timeDay": 2425,
-    "timeWeek": 2082,
-    "timeMonth": 1896,
-    "timeYear": 1455,
+    "time": 1457,
+    "timeDay": 1712,
+    "timeWeek": 2051,
+    "timeMonth": 1890,
+    "timeYear": 1457,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

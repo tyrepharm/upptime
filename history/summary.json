@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1650,
-    "timeDay": 1776,
-    "timeWeek": 1839,
-    "timeMonth": 1671,
-    "timeYear": 1650,
+    "time": 1649,
+    "timeDay": 1522,
+    "timeWeek": 1829,
+    "timeMonth": 1670,
+    "timeYear": 1649,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "99.10%",
-    "time": 1929,
-    "timeDay": 1953,
-    "timeWeek": 2068,
-    "timeMonth": 1945,
-    "timeYear": 1929,
+    "uptimeYear": "99.11%",
+    "time": 1928,
+    "timeDay": 1778,
+    "timeWeek": 2052,
+    "timeMonth": 1940,
+    "timeYear": 1928,
     "dailyMinutesDown": {
       "2021-03-13": 556,
       "2021-03-12": 956,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 325,
-    "timeDay": 175,
+    "time": 324,
+    "timeDay": 146,
     "timeWeek": 174,
     "timeMonth": 158,
-    "timeYear": 325,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 278,
-    "timeDay": 242,
-    "timeWeek": 232,
-    "timeMonth": 214,
+    "timeDay": 196,
+    "timeWeek": 231,
+    "timeMonth": 212,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2021-02-03": 31
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1460,
-    "timeDay": 1890,
-    "timeWeek": 2058,
-    "timeMonth": 1890,
-    "timeYear": 1460,
+    "time": 1464,
+    "timeDay": 1851,
+    "timeWeek": 2051,
+    "timeMonth": 1904,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

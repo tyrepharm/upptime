@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1665,
-    "timeDay": 1532,
-    "timeWeek": 1764,
-    "timeMonth": 1720,
-    "timeYear": 1665,
+    "time": 1666,
+    "timeDay": 1830,
+    "timeWeek": 1708,
+    "timeMonth": 1729,
+    "timeYear": 1666,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 1945,
-    "timeDay": 1804,
-    "timeWeek": 2024,
-    "timeMonth": 2000,
+    "timeDay": 1969,
+    "timeWeek": 1981,
+    "timeMonth": 2008,
     "timeYear": 1945,
     "dailyMinutesDown": {
       "2021-03-13": 556,
@@ -47,16 +47,16 @@
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-my-sql",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 294,
-    "timeDay": 151,
-    "timeWeek": 169,
+    "uptimeYear": "99.99%",
+    "time": 293,
+    "timeDay": 167,
+    "timeWeek": 165,
     "timeMonth": 166,
-    "timeYear": 294,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 268,
-    "timeDay": 219,
-    "timeWeek": 240,
+    "timeDay": 212,
+    "timeWeek": 226,
     "timeMonth": 225,
     "timeYear": 268,
     "dailyMinutesDown": {
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1583,
-    "timeDay": 1829,
-    "timeWeek": 1995,
-    "timeMonth": 2060,
-    "timeYear": 1583,
+    "time": 1591,
+    "timeDay": 2751,
+    "timeWeek": 2068,
+    "timeMonth": 2093,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

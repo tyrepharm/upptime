@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1666,
-    "timeDay": 1830,
-    "timeWeek": 1708,
+    "time": 1665,
+    "timeDay": 1560,
+    "timeWeek": 1713,
     "timeMonth": 1729,
-    "timeYear": 1666,
+    "timeYear": 1665,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.28%",
-    "time": 1945,
-    "timeDay": 1969,
-    "timeWeek": 1981,
-    "timeMonth": 2008,
-    "timeYear": 1945,
+    "uptimeYear": "99.29%",
+    "time": 1943,
+    "timeDay": 1700,
+    "timeWeek": 1950,
+    "timeMonth": 2007,
+    "timeYear": 1943,
     "dailyMinutesDown": {
       "2021-03-13": 556,
       "2021-03-12": 956,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 293,
-    "timeDay": 167,
-    "timeWeek": 165,
+    "time": 292,
+    "timeDay": 137,
+    "timeWeek": 163,
     "timeMonth": 166,
-    "timeYear": 293,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 268,
-    "timeDay": 212,
+    "time": 267,
+    "timeDay": 211,
     "timeWeek": 226,
     "timeMonth": 225,
-    "timeYear": 268,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1591,
-    "timeDay": 2751,
-    "timeWeek": 2068,
-    "timeMonth": 2093,
-    "timeYear": 1591,
+    "time": 1597,
+    "timeDay": 2532,
+    "timeWeek": 2161,
+    "timeMonth": 2123,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

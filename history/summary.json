@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1666,
-    "timeDay": 1386,
-    "timeWeek": 1615,
-    "timeMonth": 1670,
-    "timeYear": 1666,
+    "time": 1668,
+    "timeDay": 2054,
+    "timeWeek": 1705,
+    "timeMonth": 1687,
+    "timeYear": 1668,
     "dailyMinutesDown": {
       "2021-02-03": 32
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.39%",
-    "time": 1941,
-    "timeDay": 1659,
-    "timeWeek": 1898,
-    "timeMonth": 1915,
-    "timeYear": 1941,
+    "uptimeYear": "99.40%",
+    "time": 1943,
+    "timeDay": 2302,
+    "timeWeek": 1972,
+    "timeMonth": 1931,
+    "timeYear": 1943,
     "dailyMinutesDown": {
       "2021-03-13": 556,
       "2021-03-12": 956,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 272,
-    "timeDay": 138,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 272,
+    "time": 271,
+    "timeDay": 201,
+    "timeWeek": 167,
+    "timeMonth": 160,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 259,
-    "timeDay": 248,
-    "timeWeek": 219,
-    "timeMonth": 215,
+    "timeDay": 256,
+    "timeWeek": 227,
+    "timeMonth": 216,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2021-02-03": 31
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1670,
-    "timeDay": 2187,
-    "timeWeek": 2043,
-    "timeMonth": 2100,
-    "timeYear": 1670,
+    "time": 1673,
+    "timeDay": 2100,
+    "timeWeek": 2070,
+    "timeMonth": 2109,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2021-02-03": 30
     }

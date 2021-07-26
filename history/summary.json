@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1662,
-    "timeDay": 1477,
-    "timeWeek": 1677,
-    "timeMonth": 1647,
+    "timeDay": 1662,
+    "timeWeek": 1631,
+    "timeMonth": 1649,
     "timeYear": 1662,
     "dailyMinutesDown": {
       "2021-02-03": 32
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/xn--d1aidsgy6a.xn--p1ai",
     "slug": "doshipui",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 1931,
-    "timeDay": 1683,
-    "timeWeek": 1817,
-    "timeMonth": 1874,
+    "timeDay": 2020,
+    "timeWeek": 1765,
+    "timeMonth": 1878,
     "timeYear": 1931,
     "dailyMinutesDown": {
       "2021-03-13": 556,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 244,
-    "timeDay": 143,
-    "timeWeek": 157,
-    "timeMonth": 156,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 167,
+    "timeWeek": 153,
+    "timeMonth": 157,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2021-02-03": 31
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 207,
-    "timeWeek": 212,
-    "timeMonth": 208,
+    "timeDay": 212,
+    "timeWeek": 209,
+    "timeMonth": 209,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2021-02-03": 31
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1743,
-    "timeDay": 1855,
-    "timeWeek": 1796,
-    "timeMonth": 1879,
+    "timeDay": 1771,
+    "timeWeek": 1793,
+    "timeMonth": 1873,
     "timeYear": 1743,
     "dailyMinutesDown": {
       "2021-02-03": 30

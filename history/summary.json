@@ -6,17 +6,17 @@
     "slug": "tyre-pharmacy",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1652,
-    "timeDay": 1760,
+    "time": 1651,
+    "timeDay": 1513,
     "timeWeek": 1606,
-    "timeMonth": 1624,
-    "timeYear": 1652,
+    "timeMonth": 1623,
+    "timeYear": 1651,
     "dailyMinutesDown": {
-      "2021-11-06": 32,
+      "2021-11-06": 24,
       "2021-02-03": 32
     }
   },
@@ -32,8 +32,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.68%",
     "time": 1920,
-    "timeDay": 2338,
-    "timeWeek": 1964,
+    "timeDay": 1941,
+    "timeWeek": 1961,
     "timeMonth": 1908,
     "timeYear": 1920,
     "dailyMinutesDown": {
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 216,
-    "timeWeek": 162,
-    "timeMonth": 158,
+    "timeDay": 137,
+    "timeWeek": 156,
+    "timeMonth": 157,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2021-02-03": 31
@@ -75,8 +75,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 265,
-    "timeWeek": 223,
+    "timeDay": 185,
+    "timeWeek": 210,
     "timeMonth": 211,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1817,
-    "timeDay": 2112,
-    "timeWeek": 1948,
-    "timeMonth": 2016,
+    "timeDay": 1928,
+    "timeWeek": 1891,
+    "timeMonth": 2009,
     "timeYear": 1817,
     "dailyMinutesDown": {
       "2021-02-03": 30

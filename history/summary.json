@@ -4,9 +4,9 @@
     "url": "https://tyrepharm.ru/",
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "tyre-pharmacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1610,
     "timeYear": 1651,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-11-06": 24,
       "2021-02-03": 32
     }

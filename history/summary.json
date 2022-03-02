@@ -83,9 +83,9 @@
     "url": "https://tyrepharm.ru/local/api/Monitor/services",
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +94,8 @@
     "timeWeek": 2764,
     "timeMonth": 2319,
     "timeYear": 2011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   }
 ]

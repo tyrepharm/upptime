@@ -83,19 +83,19 @@
     "url": "https://tyrepharm.ru/local/api/Monitor/services",
     "icon": "https://favicons.githubusercontent.com/tyrepharm.ru",
     "slug": "monitor-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1876,
-    "timeDay": 2521,
-    "timeWeek": 2764,
-    "timeMonth": 2319,
-    "timeYear": 2011,
+    "time": 1877,
+    "timeDay": 2383,
+    "timeWeek": 2699,
+    "timeMonth": 2316,
+    "timeYear": 2012,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 9
     }
   }
 ]

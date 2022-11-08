@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1653,
-    "timeDay": 1153,
-    "timeWeek": 1503,
-    "timeMonth": 1464,
-    "timeYear": 1660,
-    "dailyMinutesDown": {
-      "2021-11-08": 18
-    }
+    "time": 1652,
+    "timeDay": 1201,
+    "timeWeek": 1487,
+    "timeMonth": 1463,
+    "timeYear": 1659,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Doshipui",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1791,
-    "timeDay": 1174,
-    "timeWeek": 1471,
-    "timeMonth": 1530,
-    "timeYear": 1757,
+    "time": 1790,
+    "timeDay": 1482,
+    "timeWeek": 1498,
+    "timeMonth": 1540,
+    "timeYear": 1756,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 117,
+    "timeDay": 118,
     "timeWeek": 291,
     "timeMonth": 183,
     "timeYear": 154,
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 188,
-    "timeWeek": 233,
+    "timeDay": 191,
+    "timeWeek": 235,
     "timeMonth": 227,
     "timeYear": 230,
     "dailyMinutesDown": {}
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2410,
-    "timeDay": 2612,
-    "timeWeek": 2560,
-    "timeMonth": 2529,
-    "timeYear": 2569,
+    "time": 2411,
+    "timeDay": 2498,
+    "timeWeek": 2501,
+    "timeMonth": 2532,
+    "timeYear": 2570,
     "dailyMinutesDown": {}
   }
 ]

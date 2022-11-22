@@ -4,28 +4,30 @@
     "url": "https://tyrepharm.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/tyrepharm.ru.ico",
     "slug": "tyre-pharmacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1643,
     "timeDay": 1702,
     "timeWeek": 1381,
     "timeMonth": 1409,
     "timeYear": 1648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-22": 2
+    }
   },
   {
     "name": "Doshipui",
     "url": "https://xn--d1aidsgy6a.xn--p1ai/",
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1aidsgy6a.xn--p1ai.ico",
     "slug": "doshipui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1777,
@@ -33,17 +35,19 @@
     "timeWeek": 1478,
     "timeMonth": 1462,
     "timeYear": 1736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-22": 2
+    }
   },
   {
     "name": "Monitor / MySQL",
     "url": "https://tyrepharm.ru/local/api/Monitor/db",
     "icon": "https://icons.duckduckgo.com/ip3/tyrepharm.ru.ico",
     "slug": "monitor-my-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
@@ -51,17 +55,19 @@
     "timeWeek": 137,
     "timeMonth": 174,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-22": 1
+    }
   },
   {
     "name": "Monitor / init.php",
     "url": "https://tyrepharm.ru/local/api/Monitor/init",
     "icon": "https://icons.duckduckgo.com/ip3/tyrepharm.ru.ico",
     "slug": "monitor-init-php",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
@@ -69,24 +75,28 @@
     "timeWeek": 197,
     "timeMonth": 217,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-22": 1
+    }
   },
   {
     "name": "Monitor / services",
     "url": "https://tyrepharm.ru/local/api/Monitor/services",
     "icon": "https://icons.duckduckgo.com/ip3/tyrepharm.ru.ico",
     "slug": "monitor-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2431,
+    "time": 2433,
     "timeDay": 2647,
     "timeWeek": 2654,
     "timeMonth": 2577,
     "timeYear": 2594,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-22": 0
+    }
   }
 ]

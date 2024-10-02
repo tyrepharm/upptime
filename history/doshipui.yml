@@ -1,7 +1,7 @@
 url: https://xn--d1aidsgy6a.xn--p1ai/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-02T23:16:35.531Z
+status: degraded
+code: 200
+responseTime: 24709
+lastUpdated: 2024-10-02T23:32:55.175Z
 startTime: 2020-12-01T23:08:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>

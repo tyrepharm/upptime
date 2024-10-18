@@ -1,7 +1,7 @@
 url: https://tyrepharm.ru/local/api/Monitor/services
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-18T07:51:13.710Z
+status: up
+code: 200
+responseTime: 17785
+lastUpdated: 2024-10-18T08:00:32.126Z
 startTime: 2020-12-05T00:22:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>

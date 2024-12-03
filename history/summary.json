@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.83%",
     "time": 2105,
-    "timeDay": 1735,
-    "timeWeek": 1527,
-    "timeMonth": 1434,
-    "timeYear": 2284,
+    "timeDay": 1428,
+    "timeWeek": 1479,
+    "timeMonth": 1441,
+    "timeYear": 2283,
     "dailyMinutesDown": {
       "2024-10-19": 58,
       "2024-10-18": 207,
@@ -37,8 +37,7 @@
       "2024-01-09": 15,
       "2023-12-15": 59,
       "2023-12-13": 60,
-      "2023-12-08": 58,
-      "2023-12-04": 59
+      "2023-12-08": 58
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.86%",
     "time": 2274,
-    "timeDay": 1941,
-    "timeWeek": 1821,
-    "timeMonth": 1595,
-    "timeYear": 2468,
+    "timeDay": 1504,
+    "timeWeek": 1771,
+    "timeMonth": 1598,
+    "timeYear": 2467,
     "dailyMinutesDown": {
       "2024-10-19": 58,
       "2024-10-18": 207,
@@ -75,8 +74,7 @@
       "2023-12-26": 15,
       "2023-12-15": 58,
       "2023-12-13": 59,
-      "2023-12-09": 19,
-      "2023-12-04": 58
+      "2023-12-09": 19
     }
   },
   {
@@ -91,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 264,
-    "timeDay": 280,
-    "timeWeek": 177,
+    "timeDay": 145,
+    "timeWeek": 170,
     "timeMonth": 158,
     "timeYear": 321,
     "dailyMinutesDown": {
@@ -123,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.11%",
     "time": 323,
-    "timeDay": 283,
-    "timeWeek": 265,
-    "timeMonth": 247,
+    "timeDay": 222,
+    "timeWeek": 255,
+    "timeMonth": 248,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2024-10-18": 36,
@@ -153,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.94%",
-    "time": 3596,
-    "timeDay": 3921,
-    "timeWeek": 3952,
-    "timeMonth": 3554,
-    "timeYear": 3590,
+    "time": 3595,
+    "timeDay": 3612,
+    "timeWeek": 3688,
+    "timeMonth": 3571,
+    "timeYear": 3591,
     "dailyMinutesDown": {
       "2024-10-19": 56,
       "2024-10-18": 164,

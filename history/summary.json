@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tyrepharm.ru.ico",
     "slug": "tyre-pharmacy",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.53%",
     "time": 2099,
-    "timeDay": 1730,
-    "timeWeek": 1565,
-    "timeMonth": 1520,
+    "timeDay": 1749,
+    "timeWeek": 1599,
+    "timeMonth": 1534,
     "timeYear": 2301,
     "dailyMinutesDown": {
       "2024-10-19": 58,
@@ -26,8 +26,7 @@
       "2024-10-02": 818,
       "2024-10-01": 81,
       "2024-09-27": 42,
-      "2024-08-14": 15,
-      "2024-04-11": 415
+      "2024-08-14": 15
     }
   },
   {
@@ -40,12 +39,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.55%",
     "time": 2252,
-    "timeDay": 1899,
-    "timeWeek": 1859,
-    "timeMonth": 1610,
-    "timeYear": 2402,
+    "timeDay": 1466,
+    "timeWeek": 1841,
+    "timeMonth": 1611,
+    "timeYear": 2401,
     "dailyMinutesDown": {
       "2024-10-19": 58,
       "2024-10-18": 207,
@@ -53,8 +52,7 @@
       "2024-10-10": 654,
       "2024-10-03": 141,
       "2024-10-02": 797,
-      "2024-09-27": 71,
-      "2024-04-11": 415
+      "2024-09-27": 71
     }
   },
   {
@@ -67,18 +65,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.77%",
     "time": 287,
-    "timeDay": 200,
-    "timeWeek": 170,
-    "timeMonth": 154,
+    "timeDay": 193,
+    "timeWeek": 178,
+    "timeMonth": 155,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2024-10-18": 37,
       "2024-10-11": 108,
       "2024-10-10": 364,
-      "2024-10-02": 422,
-      "2024-04-11": 415
+      "2024-10-02": 422
     }
   },
   {
@@ -87,22 +84,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/tyrepharm.ru.ico",
     "slug": "monitor-init-php",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
-    "time": 322,
-    "timeDay": 259,
-    "timeWeek": 247,
-    "timeMonth": 234,
+    "uptimeYear": "99.77%",
+    "time": 323,
+    "timeDay": 248,
+    "timeWeek": 249,
+    "timeMonth": 235,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2024-10-18": 36,
       "2024-10-11": 108,
       "2024-10-10": 357,
-      "2024-10-02": 392,
-      "2024-04-11": 415
+      "2024-10-02": 392
     }
   },
   {
@@ -115,20 +111,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
-    "time": 3640,
-    "timeDay": 3419,
-    "timeWeek": 3929,
-    "timeMonth": 3747,
-    "timeYear": 3789,
+    "uptimeYear": "99.60%",
+    "time": 3642,
+    "timeDay": 3717,
+    "timeWeek": 3890,
+    "timeMonth": 3749,
+    "timeYear": 3790,
     "dailyMinutesDown": {
       "2024-10-19": 56,
       "2024-10-18": 164,
       "2024-10-11": 108,
       "2024-10-10": 652,
       "2024-10-03": 72,
-      "2024-10-02": 729,
-      "2024-04-11": 415
+      "2024-10-02": 729
     }
   }
 ]

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tyrepharm.ru.ico",
     "slug": "tyre-pharmacy",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2253,
-    "timeDay": 1586,
-    "timeWeek": 1684,
-    "timeMonth": 1806,
-    "timeYear": 1528,
+    "timeDay": 1888,
+    "timeWeek": 1634,
+    "timeMonth": 1825,
+    "timeYear": 1530,
     "dailyMinutesDown": {
       "2025-10-07": 17,
       "2025-04-22": 43
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2353,
-    "timeDay": 1929,
-    "timeWeek": 1754,
-    "timeMonth": 2175,
-    "timeYear": 1728,
+    "time": 2354,
+    "timeDay": 1852,
+    "timeWeek": 1729,
+    "timeMonth": 2169,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2025-09-03": 112,
       "2025-04-22": 43
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 297,
-    "timeDay": 196,
-    "timeWeek": 181,
-    "timeMonth": 196,
+    "timeDay": 198,
+    "timeWeek": 174,
+    "timeMonth": 198,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-04-22": 35
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 274,
-    "timeWeek": 314,
-    "timeMonth": 369,
+    "timeDay": 237,
+    "timeWeek": 300,
+    "timeMonth": 368,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-04-22": 34
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 4040,
-    "timeDay": 3746,
-    "timeWeek": 4645,
-    "timeMonth": 6651,
-    "timeYear": 4127,
+    "time": 4047,
+    "timeDay": 7386,
+    "timeWeek": 4627,
+    "timeMonth": 6668,
+    "timeYear": 4139,
     "dailyMinutesDown": {
       "2025-04-22": 34
     }

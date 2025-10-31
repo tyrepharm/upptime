@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2254,
-    "timeDay": 1795,
-    "timeWeek": 1628,
-    "timeMonth": 1820,
+    "time": 2255,
+    "timeDay": 1783,
+    "timeWeek": 1631,
+    "timeMonth": 1819,
     "timeYear": 1531,
     "dailyMinutesDown": {
       "2025-10-07": 17,
@@ -25,18 +25,19 @@
     "url": "https://xn--d1aidsgy6a.xn--p1ai/",
     "icon": "https://icons.duckduckgo.com/ip3/xn--d1aidsgy6a.xn--p1ai.ico",
     "slug": "doshipui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2353,
-    "timeDay": 2138,
-    "timeWeek": 1746,
-    "timeMonth": 2135,
+    "time": 2355,
+    "timeDay": 1840,
+    "timeWeek": 1761,
+    "timeMonth": 2126,
     "timeYear": 1731,
     "dailyMinutesDown": {
+      "2025-10-31": 0,
       "2025-09-03": 112,
       "2025-04-22": 43
     }
@@ -53,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 297,
-    "timeDay": 224,
+    "timeDay": 153,
     "timeWeek": 177,
-    "timeMonth": 196,
+    "timeMonth": 194,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-04-22": 35
@@ -73,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 343,
-    "timeDay": 334,
-    "timeWeek": 297,
-    "timeMonth": 358,
+    "timeDay": 306,
+    "timeWeek": 299,
+    "timeMonth": 357,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-04-22": 34
@@ -92,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 4052,
-    "timeDay": 5387,
-    "timeWeek": 4794,
-    "timeMonth": 6608,
-    "timeYear": 4145,
+    "time": 4056,
+    "timeDay": 5597,
+    "timeWeek": 5070,
+    "timeMonth": 6575,
+    "timeYear": 4152,
     "dailyMinutesDown": {
       "2025-04-22": 34
     }
